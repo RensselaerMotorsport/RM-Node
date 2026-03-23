@@ -1,8 +1,0 @@
-
-Timers----------------------------------------------------------------------------------------------------
-Timer 6- ADC dma trigger - 1000hz
- 
-ADC config -----------------------------------------------------------------------------------------------
-Scan continuous trigger mode with DMA and timer trigger
-timer 6 configured at 1000Hz
-

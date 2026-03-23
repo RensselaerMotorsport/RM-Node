@@ -1,0 +1,7 @@
+../Core/Src/main.c:88:5:main	136	static
+../Core/Src/main.c:241:6:SystemClock_Config	112	static
+../Core/Src/main.c:285:16:platform_write	48	static
+../Core/Src/main.c:292:17:platform_read	48	static
+../Core/Src/main.c:299:14:tx_com	24	static
+../Core/Src/main.c:304:14:platform_delay	16	static
+../Core/Src/main.c:314:6:Error_Handler	8	static,ignoring_inline_asm
